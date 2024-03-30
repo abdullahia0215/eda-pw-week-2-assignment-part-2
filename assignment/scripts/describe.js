@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// first, the name variable is decalred as dane. then a if else statement
+// is made to check if the name is mary. if the name is mary, it will log 'Hi, Mary!' to the console.
+// if the name isn't Mary, it will log 'How do you do?' to the console.
 //
 
 //CODE
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// first it declares secret without a value, then declares a code with the value of "123"
+// then it performs 2 "if" functions: one to check if the code is equal to 123. if it is equal then the secret variable will be
+// set to super and the code will be multiplied by 2.
+// the second check is to check if the code is greater than 250. if it is, then the secret variabe will be set to duper instead of super.
+// lastly, it logs the secret value to the console.
 
 //CODE
 /*
@@ -70,10 +71,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// it starts by declaring 3 variables. isStudent, age, and zip. all of which are true, 34, and 55407 respectively.
+// then it performs a check to see if isStudent is true and the zip code if greater than 80000. if the answer to both is yes, it will log
+// 'You're a student on the west coast!' to the console. Then it checks to see if isStudent is false and their age is less than 30. if the
+// answer to both is yes, then it logs 'What are your hobbies?' to the console.
+// if just isStudent is true, then it logs 'welcome to Prime!' to the console.
+// if all of the other checks came back with false, then it defaults to logging 'How about the weather?' to the console.
 
 //CODE
 /*
