@@ -140,6 +140,8 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
+
+//FIX - colorOne and colorTwo are switched around. switching the colors around should fix it.
 */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
@@ -153,7 +155,10 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+
+//FIX - the " || " should be switched to a "&&"
 */
+
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
