@@ -173,5 +173,6 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+//FIX - switch the two console logs around. people who are 21 and up should be able to enter, people under should not.
 */
 
