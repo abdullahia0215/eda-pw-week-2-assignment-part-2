@@ -141,7 +141,8 @@ if (mix === true) {
   colorOne = 'purple';
 }
 
-//FIX - colorOne and colorTwo are switched around. switching the colors around should fix it.
+//FIX - colorOne and colorTwo are switched around switching the colors around should fix it. Additionally, colorTwo is missing a
+// declaration in the conditional. 
 */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
