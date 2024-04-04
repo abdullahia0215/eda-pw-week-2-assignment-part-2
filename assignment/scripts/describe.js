@@ -27,7 +27,7 @@ if (number >= 2) {
 // first, the name variable is decalred as dane. then a if else statement
 // is made to check if the name is mary. if the name is mary, it will log 'Hi, Mary!' to the console.
 // if the name isn't Mary, it will log 'How do you do?' to the console.
-//
+// In this case, the console will log 'How do you do?'.
 
 //CODE
 /*
@@ -48,6 +48,7 @@ if (name === 'Mary') {
 // set to super and the code will be multiplied by 2.
 // the second check is to check if the code is greater than 250. if it is, then the secret variabe will be set to duper instead of super.
 // lastly, it logs the secret value to the console.
+// In this case, it will log 'super' to the console.
 
 //CODE
 /*
@@ -75,6 +76,7 @@ console.log(secret)
 // answer to both is yes, then it logs 'What are your hobbies?' to the console.
 // if just isStudent is true, then it logs 'welcome to Prime!' to the console.
 // if all of the other checks came back with false, then it defaults to logging 'How about the weather?' to the console.
+// In this case, the code will log 'Welcome to Prime!' to the console.
 
 //CODE
 /*
